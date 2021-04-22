@@ -8,6 +8,5 @@ simpler to share such contributions, we encourage [sharing those links on our
 wiki
 page](https://github.com/ipython/ipython/wiki/Cookbook:%20nbconvert%20templates).
 
-
-https://stepik.org/course/575/syllabus ссыль на курс по автоматизации
-test test test
+Добавил ссыль на курс по автоматизации
+https://stepik.org/course/575/syllabus 
